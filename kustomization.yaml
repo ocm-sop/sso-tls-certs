@@ -6,7 +6,5 @@ generatorOptions:
 
 resources:
   - namespace.yaml
-  - public-sso-tls.yaml
   - public-sso-tls-cert.yaml
-  - private-sso-tls.yaml
   - private-sso-tls-cert.yaml
